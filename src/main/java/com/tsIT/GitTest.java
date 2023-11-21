@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("e git4");
         System.out.println("merge git5");
         System.out.println("push git5");
+        System.out.println("pull git5");
     }
 }
