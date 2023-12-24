@@ -11,7 +11,6 @@ public class GitTest {
         System.out.println("pull git5");
         System.out.println("pull2 git5");
 
-
         System.out.println("pull git5");
         System.out.println("pull2 git5");
         System.out.println("dasdas");
